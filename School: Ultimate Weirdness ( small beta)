@@ -1,0 +1,9 @@
+project/
+  |-> src/
+    |-> Array.cpp
+    |-> other-jsonbox-files
+    |-> main.cpp
+    |-> other-tutorial-files
+    |-> JsonBox/
+      |-> Array.h
+      |-> other-jsonbox-headers
